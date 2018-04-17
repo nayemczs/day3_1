@@ -1,0 +1,102 @@
+
+ 
+    *{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    overflow: hidden;
+    background-color: red;
+    min-height: 100px;
+    
+    
+}
+.logo{
+    background-color: dodgerblue;
+    min-height: 100px;
+    float: left;
+    width: 20%;
+}
+.nav{
+    background-color: dimgrey;
+    min-height: 100px;
+    float: right;
+    width: 60%;
+    
+}
+.slider{
+    
+    background-color: darkgray;
+    min-height: 300px;
+    overflow: hidden;
+    
+}
+.slider-content{
+    border: 1px solid red;
+    min-height: 200px;
+    width: 50%;
+        margin: 40px auto;
+    padding: 0px 40px;
+    text-align: center;
+    font-size: 30px;
+  
+    
+}
+
+.service{
+    min-height: 400px;
+    background-color:dimgray;
+    
+}
+.service-top{
+    min-height: 240px;
+    
+    
+}
+.service-content{
+    min-height: 200px;
+    width: 20%;
+    background-color: aliceblue;
+    float: left;
+    margin: 10px 32px;
+    
+    
+}
+.service-bottom{
+    min-height: 110px;
+    background-color: red;
+    width: 95%;
+    margin: 0px 30px;
+    
+}
+        .part1{
+            min-height: 50px;
+            width: 100%;
+            border: 1px solid black;
+            
+        }
+        .part2{
+            min-height: 130px;
+            width:60%;
+            border: 1px solid yellow;
+            margin: 0px 50px;
+        }
+        .part3{
+            
+            text-align: center;
+        }
+.media{
+
+    min-height: 70px;
+    width:15%;
+    float: left;
+  margin: 0px 32px;
+    text-align: center;
+}
+.media1{
+    
+    text-align: center;
+    min-height: 50px;
+    
+    margin: 40px 0px;
+}
